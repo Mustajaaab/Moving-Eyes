@@ -3,12 +3,17 @@
     margin: 0;
     padding: 0;
 }
+.head{
+    font-size: x-large;
+    color: #fff;
+    text-align: center;
+}
 
 body{
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 70vh;
     font-family: "Bebas Neue", cursive;
     background: #000000;
 }
